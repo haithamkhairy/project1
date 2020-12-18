@@ -1,6 +1,7 @@
+import numpy as np
+import pandas as pd
+
 while True:
-    import numpy as np
-    import pandas as pd
 
     #files of cities to be uploaded
     city_data = {'Chicago':'chicago.csv','New York':'new_york_city.csv','Washington':'washington.csv'}
